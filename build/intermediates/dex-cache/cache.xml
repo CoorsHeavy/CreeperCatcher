@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-7bf00fbaa6e3ee0d555b79adaaa047ce87fa4f73.jar" />
+    </item>
+    <item
+        jar="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\pre-dexed\debug\classes-89016d560af0246a1fa1a7ec63c72dc9951584e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\libs\jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\pre-dexed\debug\jsoup-1.8.1-04eff04f94f695b82c149a813aa00b89f1cdc6d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\96hud_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-ceda39831c693711df99ea92887652aa57a617eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\pre-dexed\debug\classes-af5c2512f378d2c2001855b0b66deba45ea27582.jar" />
+    </item>
+    <item
+        jar="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\96hud_000\AndroidstudioProjects\Creeper Catcher\app\build\intermediates\pre-dexed\debug\classes-578a58a5a5d914e9a08d0ee40c6c6afe5a1bf88c.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\ProjectBackups\\Creeper Catcher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_loader.xml",
+        "source": "E:\\ProjectBackups\\Creeper Catcher\\app\\src\\main\\res\\menu\\list_loader.xml"
+    },
+    {
+        "merged": "E:\\ProjectBackups\\Creeper Catcher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\web.xml",
+        "source": "E:\\ProjectBackups\\Creeper Catcher\\app\\src\\main\\res\\menu\\web.xml"
+    },
+    {
+        "merged": "E:\\ProjectBackups\\Creeper Catcher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\lesson.xml",
+        "source": "E:\\ProjectBackups\\Creeper Catcher\\app\\src\\main\\res\\menu\\lesson.xml"
+    },
+    {
+        "merged": "E:\\ProjectBackups\\Creeper Catcher\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\ProjectBackups\\Creeper Catcher\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
